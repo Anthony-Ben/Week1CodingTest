@@ -28,11 +28,11 @@ public class Room {
             }
         }
 
-
+/*
         for(int i = 0; i < ints.length; i++){
             System.out.println();
         }
-
+*/
         return true;
     }
 
